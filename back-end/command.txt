@@ -1,0 +1,8 @@
+npm init -y
+npm i -D nodemon
+npm run dev
+npm i -D nodemon
+npm i express axios
+-------------
+npm i --save express mongoose body-parser axios nodemon
+npm install mongodb
